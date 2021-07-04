@@ -46,6 +46,8 @@
   cursor: pointer;
   border: none;
   color: #fff;
+  padding: 5;
+  border-radius: 15;
 }
 
 .posts-container {
